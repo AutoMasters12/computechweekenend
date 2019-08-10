@@ -11,4 +11,9 @@ public class TestSuite1 {
 
 	}
 
+
+	@Test
+	public void test2() {
+
+	}
 }
